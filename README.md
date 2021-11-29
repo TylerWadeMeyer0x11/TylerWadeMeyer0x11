@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerWadeMeyer0x11
 - 👀 I’m interested in learning Programming
-- 🌱 I’m currently learning C, C++, SQL, Python
+- 🌱 I’m currently learning C, C++, SQL, Java Python
 - 💞️ I’m looking to collaborate on Arduino and C programming projects.
 - 📫 Reach me at 063 670 3543
 
